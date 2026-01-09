@@ -392,7 +392,7 @@
                     <v-icon>mdi-map-marker</v-icon>
                   </div>
                   <div class="contact-title">LOCATION</div>
-                  <div class="contact-text">Plot 123, Industrial Area</div>
+                  <div class="contact-text">F6V8+78F Mukaawani Market, Machakos</div>
                   <div class="contact-text">Machakos , Nairobi</div>
                 </v-card>
               </v-col>
